@@ -86,8 +86,6 @@ https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Bengali_H
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_aath&q=1200&e=junk.m3u8
 
-
-
 #EXTINF:-1,AKASH AATH 
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Aakaash_bangla&q=1200&e=junk.m3u8
 
@@ -96,6 +94,8 @@ http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
@@ -118,26 +118,30 @@ https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=And_TV_HD&q=1200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bhara
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Cineplex_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,BBO HD
-https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures HD 
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Cineplex_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1,AND EXPLORER HD 
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-209
+
+#EXTINF:-1,BBO HD
+https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Action&q=1200&e=junk.m3u8
@@ -145,9 +149,43 @@ https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Action&q=120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Classic&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1,FOX LIFE HD
+http://93.157.62.180:80/FoxLife/playlist.m3u8
+
+#EXTINF:-1,COLORS INFINITY HD
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Infinity_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English", & Prive HD
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-privéhd
+
+#EXTINF:-1,AND FLIX HD
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-channel_2105335046
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN
+http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1,WB ASIN
+http://203.154.243.89:1205.m3u8
+
+#EXTINF:-1,FOX MOVIES 
+http://93.157.62.180:80/FoxMovies/index.m3u8
+
+#EXTINF:-1,CINEMEX
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+
+#EXTINF:-1,Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,STAR WORLD HD
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
@@ -176,28 +214,17 @@ https://livecdn.fptplay.net/hda2/discoveryasia_hls.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Bangla", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,COLORS INFINITY HD
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Infinity_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English", & Prive HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN
-http://210.210.155.35:80/dr9445/h/h141/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
 
 
-#EXTINF:-1,WB ASIN
-http://203.154.243.89:1205.m3u8
 
-#EXTINF:-1,CINEMEX
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
-https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 
-#EXTINF:-1,Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1,PTV SPORTS 
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
