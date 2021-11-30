@@ -148,24 +148,29 @@ http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,BBC ERATH
-
+https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English", Animal Planet HD
-
+https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="English", History Channel
-
+http://58.65.171.202:8000/play/3119/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Hindi
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Bangla
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD
+https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English", National Geographic Wild
+https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery HD 
+https://livecdn.fptplay.net/hda2/discoveryasia_hls.smil/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery HD Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Bangla", Travel XP HD
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English", TLC SD Hindi
 
@@ -180,11 +185,11 @@ http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1,WB ASIN
 http://203.154.243.89:1205.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zee Cafe HD
-
+#EXTINF:-1,CINEMEX
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
-
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 
 #EXTINF:-1,Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -241,21 +246,21 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
+#EXTINF:1,9XM MUSIC 
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music", MTV HD
+#EXTINF:-1,BANGLA TALKIS MUSIC 
+http://14.199.164.20:4001/play/a0rh/index.m3u8
 
 #EXTINF:-1,LOVE MUSIC 
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",Masti
-
-#EXTINF:-1,HISTORY TV
-http://58.65.171.202:8000/play/3119/index.m3u8
+http://14.199.164.20:4001/play/a0my/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Bangla", Travel XP HD
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
