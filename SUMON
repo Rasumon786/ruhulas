@@ -78,7 +78,7 @@ http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4765
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Bangla&q=1200&e=junk.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeebangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
@@ -89,11 +89,14 @@ https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_aath&q=1200
 #EXTINF:-1,AKASH AATH 
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Aakaash_bangla&q=1200&e=junk.m3u8
 
+#EXTINF:-1,SUN BANGLA 
+http://139.59.55.243/sunnxt/live.php?c=75117&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeebanglacinema
 
 
 
@@ -101,7 +104,7 @@ https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Bangla_Cinem
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
@@ -150,6 +153,9 @@ https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Action&q=120
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Classic&q=1200&e=junk.m3u8
 
 
+
+#EXTINF:-1,ZEE CAFE HD
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecafehd
 
 #EXTINF:-1,FOX LIFE HD
 http://93.157.62.180:80/FoxLife/playlist.m3u8
