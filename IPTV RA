@@ -24,8 +24,8 @@ http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/54.m3u8
-#http://208.86.19.21:80/652.stream/index.m3u8
-#http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+http://208.86.19.21:80/652.stream/index.m3u8
+http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/65.m3u8
