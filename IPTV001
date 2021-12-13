@@ -3,11 +3,12 @@
 http://103.106.2.149:13456/btv.m3u8
 
 #EXTINF:-2 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
-http://103.159.4.38:5868/BD-BANGLA-6/index.m3u8
+http://208.86.19.21:80/626.stream/index.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-6/index.m3u8
 
 #EXTINF:-3 tvg-logo="https://i.imgur.com/p0I5dr0.png", CHANNEL I HD
-http://103.159.4.38:5868/BD-BANGLA-1/index.m3u8
-#https://rhridoy136.shortcm.li/channeli.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-1/index.m3u8
+https://rhridoy136.shortcm.li/channeli.m3u8
 
 #EXTINF:-4 tvg-logo="https://i.imgur.com/HX8SSDA.png", BANGLAVISION HD
 https://rhridoy136.shortcm.li/banglavisiontv.m3u8
@@ -27,14 +28,15 @@ http://208.86.19.21:80/620.stream/index.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-16/index.m3u8
 
 #EXTINF:-10 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
-http://103.159.4.38:5868/BD-BANGLA-10/index.m3u8
-#http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-10/index.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-11 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla", Channel 9 HD
 http://208.86.19.21:80/608.stream/index.m3u8
 
 #EXTINF:-12 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
-http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8
+http://208.86.19.21:80/686.stream/index.m3u8
 
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
@@ -44,7 +46,7 @@ http://208.86.19.21/609.stream/index.m3u8
 
 #EXTINF:-15 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla", Asian TV 
 http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
-#http://jupiter.bdcabletv.com/AsianTVHD-IRD/video.m3u8
+
 
 #EXTINF:-16 tvg-logo="https://imgur.com/McQwv50.png" group-title="Bangla", SATV
 http://208.86.19.21:80/613.stream/index.m3u8
