@@ -331,7 +331,7 @@ http://208.86.19.21:80/907.stream/index.m3u8
 http://14.199.164.20:4001/play/a0rh/index.m3u8
 
 #EXTINF: -1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png", MTV Beats HD
-https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_Beats_HD&q=1200&e=junk.m3u8
+http://195.201.82.32:5001/play/a03e
 
 #EXTINF: -1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" , MTV HD Plus
 http://183.178.58.115:8023/0.m3u8
