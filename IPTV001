@@ -91,7 +91,7 @@ http://195.201.82.32:5001/play/a028
 http://103.131.212.138:8000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png", Zee Cinema HD
-http://103.131.212.138:8000/play/a01a/index.m3u8
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png", & Pictures HD 
 #http://103.157.210.165:8000/play/a01i/index.m3u8
