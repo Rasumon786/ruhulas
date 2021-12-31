@@ -145,7 +145,9 @@ http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 http://195.201.82.32:5001/play/a025
 
 #EXTINF: -1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png", Sony SAB HD
-http://208.86.19.21:80/702.stream/index.m3u8
+#http://208.86.19.21:80/702.stream/index.m3u8
+https://tvstream.space//jtv/ddx.php?c=Sony_SAB&q=600&e=junk.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/pk/HumTV.pk.png",HUM TV HD
 http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
 
