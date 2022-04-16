@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" ,Peace Tv 
-http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" , BTV HD 
-http://103.106.2.149:13456/btv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , BTV World
-http://103.106.2.149:13456/btv_world.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" , ATN Bangla
-http://103.159.4.38:8080/BD-BANGLA-6/tracks-v1a1/mono.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" , Channel I HD
-http://103.159.4.38:8080/BD-BANGLA-1/tracks-v1a1/mono.m3u8
+https://somoy.jaagobd.com:444/somoy/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" , Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" ,NTV
-http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+http://208.86.19.13:81/652.stream/index.m3u8
 
 #EXTINF:-05 tvg-logo="https://i.imgur.com/yi5p51T.png", RTV HD
 https://somoy.appv.jagobd.com:444/somoy/rtv-sg.stream/playlist.m3u8
@@ -30,7 +30,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 https://somoy.appv.jagobd.com:444/somoy/banglav000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga HD
-https://live.durbinlive.com/hls/masranga.m3u8
+https://tempx.jagobd.com:441/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/live-orgin/mass.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" , Channel 9 HD
 https://piratesiptv.shortcm.li/channel9.m3u8
