@@ -181,6 +181,9 @@ http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/69pCK1u.png", AXN HD
 http://125.209.88.166:45793/BRN/AXNHD.stream/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+
 #EXTINF:-0 tvg-logo="https://imgur.com/BNaXQWX.png",Movies Now HD
 http://103.55.144.46/hls/movies-now.m3u8
 
