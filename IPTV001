@@ -6,7 +6,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , BTV World
-
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" , ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -251,8 +251,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png",Duronto TV
-
-
+http://nbn.chowdhury-shaheb.com/live/duranta/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/2tjaJND.png",CN
 http://103.55.144.46/hls/cn.m3u8
@@ -274,6 +273,9 @@ http://103.55.144.46/hls/nick.m3u8
 
 #EXTINF:-099 tvg-logo="https://i.imgur.com/Jo7wzmn.png", Gaan Bangla
 https://somoy.appv.jagobd.com:444/somoy/gaanbangla-8-orgd.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/HG69Dgb.png",BANGLA TALKIES
+http://14.199.164.20:4001/play/a0rh/index.m3u8
 
 #EXTINF:-101 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
