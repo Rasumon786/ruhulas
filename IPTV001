@@ -14,20 +14,20 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" , Channel I HD
 https://somoy.jaagobd.com:444/somoy/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" , Banglavision HD
+https://somoy.appv.jagobd.com:444/somoy/banglav000.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" , Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" ,NTV
-http://208.86.19.13:81/652.stream/index.m3u8
 
 #EXTINF:-05 tvg-logo="https://i.imgur.com/yi5p51T.png", RTV HD
 https://somoy.appv.jagobd.com:444/somoy/rtv-sg.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" ,NTV
+http://208.86.19.13:81/652.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" , Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" , Banglavision HD
-https://somoy.appv.jagobd.com:444/somoy/banglav000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga HD
 https://tempx.jagobd.com:441/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/live-orgin/mass.stream/chunks.m3u8
@@ -36,11 +36,10 @@ https://tempx.jagobd.com:441/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://piratesiptv.shortcm.li/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GAZI TV
-
+http://103.55.144.46/hls/Gazi-TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" , Asian TV 
 http://cdn-sgp.oc.bd-cast.com/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" , Deepto TV HD
 https://somoy.appv.jagobd.com:444/somoy/deeptotv.stream/playlist.m3u8
@@ -123,6 +122,14 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png",Star Bharat HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 
+#EXTINF:-050 tvg-logo="https://static.epg.best/pk/HumTV.pk.png",HUM TV HD 
+http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
+
+#EXTINF:-051 tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png",GEO HD
+http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-052 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png",ARY DIGITAL
+http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png", Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
