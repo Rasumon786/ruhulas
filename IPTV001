@@ -227,7 +227,7 @@ http://103.132.16.98:8080/starsportsselect1hd/mpegts
 http://103.55.144.46/hls/select2.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/m7Cl2M9.png", National Geographic HD
-http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/MCyL9wX.png", National Geo Wild
 https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
