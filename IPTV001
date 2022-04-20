@@ -48,7 +48,7 @@ https://somoy.appv.jagobd.com:444/somoy/deeptotv.stream/playlist.m3u8
 https://live2.bd-cast.net/jago/1/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-015 tvg-logo="https://i.imgur.com/2cpHJKq.png", Nagorik TV
-https://rhridoy136.shortcm.li/nagoriktv.m3u8
+http://103.136.200.246:8082/Nagorik-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" , Bangla TV
 https://somoy.appv.jagobd.com:444/somoy/banglatvhd.stream/playlist.m3u8
@@ -114,13 +114,13 @@ http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEETVHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" , And TV HD
-https://yuppsportsind.akamaized.net/121120/andtvhdus/playlist.m3u8
+http://89.187.162.109/ANDTVHD/mono.m3u8
 
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" ,SONY SAB HD 
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png",Star Bharat HD
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+http://89.187.162.109/STARBHARATHD/mono.m3u8
 
 #EXTINF:-050 tvg-logo="https://static.epg.best/pk/HumTV.pk.png",HUM TV HD 
 http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
@@ -130,6 +130,7 @@ http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-052 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png",ARY DIGITAL
 http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png", Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
