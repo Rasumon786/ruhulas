@@ -147,7 +147,7 @@ http://103.132.16.98:8080/andpicturehd/mpegts
 http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
 
 #EXTINF:-040 tvg-logo="https://i.imgur.com/q0nObmP.png", Star Gold Select HD
-http://182.50.65.213:8888/udp/239.239.0.12:3001
+http://208.86.19.13:81/709.stream/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg/revision/latest?cb=20181021120741",UTV HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
