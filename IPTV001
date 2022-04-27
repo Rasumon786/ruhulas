@@ -129,7 +129,7 @@ http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-052 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png",ARY DIGITAL
-http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
+http://208.86.19.13:81/821.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png", Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
@@ -141,10 +141,10 @@ http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" , & Pictures HD 
-http://103.132.16.98:8080/andpicturehd/mpegts
+http://208.86.19.13:81/705.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" , Colors Cineplex HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
+http://208.86.19.13:81/735.stream/index.m3u8
 
 #EXTINF:-040 tvg-logo="https://i.imgur.com/q0nObmP.png", Star Gold Select HD
 http://208.86.19.13:81/709.stream/index.m3u8
@@ -165,22 +165,22 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png", Zee Bolywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Classic&q=800&e=.m3u8
+http://208.86.19.13:81/701.stream/index.m3u8
 
 #EXTINF:-055 tvg-logo="https://i.imgur.com/M0bRPMs.png", Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 
 #EXTINF:-0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" , Sony Pix HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Pix_HD&q=800&e=.m3u8
+https://bit.ly/38PiksI
 
 #EXTINF:-0 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" ,Colors Infinity HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Infinity_HD&q=600&e=.m3u8
+http://221.120.204.4:80/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png", HBO HD
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/69pCK1u.png", AXN HD
-http://125.209.88.166:45793/BRN/AXNHD.stream/playlist.m3u8
+http://89.187.162.109/axn/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
