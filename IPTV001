@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" , BTV HD 
-
+http://103.106.2.149:13456/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
