@@ -243,7 +243,7 @@ https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
 
 #EXTINF: -0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" , History TV18 HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=History_HD&q=800&e=.m3u8
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF: -0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" , Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
