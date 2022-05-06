@@ -23,7 +23,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-05 tvg-logo="https://i.imgur.com/yi5p51T.png", RTV HD
 https://somoy.appv.jagobd.com:444/somoy/rtv-sg.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R9TpMB0/amar.jpg",Ntv BANGLA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R9TpMB0/amar.jpg",NTV 
 http://208.86.19.13:81/652.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" , Boishakhi TV
