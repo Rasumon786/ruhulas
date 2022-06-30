@@ -174,7 +174,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 http://103.55.144.46/hls/sonypixhd.m3u8
 
 #EXTINF:-0 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" ,Colors Infinity HD
-http://221.120.204.4:80/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.139.171.5:5001/live.php?c=Colors_Infinity_HD&q=600&e=.m3u8
 
 #EXTINF:-0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png", HBO HD
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
@@ -273,13 +273,13 @@ http://iptvind.in1.bitmana.io/live.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
 http://103.55.144.46/hls/nick.m3u8
 
 #EXTINF:-099 tvg-logo="https://i.imgur.com/Jo7wzmn.png", Gaan Bangla
-https://somoy.appv.jagobd.com:444/somoy/gaanbangla-8-orgd.stream/playlist.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/HG69Dgb.png",BANGLA TALKIES
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
 #EXTINF:-101 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png", Sangeet Bangla
-http://iptvind.in1.bitmana.io/live.php?c=Sangeet_Bangla&q=600&e=junk.m3u8
+http://103.139.171.5:5001/live.php?c=Sangeet_Bangla&q=600&e=.m3u8
 
 #EXTINF:-102 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" , MTV HD Plus
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
@@ -292,19 +292,19 @@ http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
 
 
 #EXTINF: -106  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.jpg" , 9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+http://103.139.171.5:5001/live.php?c=9XM&q=600&e=.m3u8
 
 #EXTINF: -107 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" , B4U Music
 http://144.217.70.181:9587/hin2/MUSICINDIA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-108  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" , Music India
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+http://103.139.171.5:5001/live.php?c=Music_India&q=600&e=.m3u8
 
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" , iLove
-http://iptvind.in1.bitmana.io/live.php?c=iLove&q=600&e=junk.m3u8
+http://103.139.171.5:5001/live.php?c=iLove&q=600&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg",Zoom
-http://iptvind.in1.bitmana.io/live.php?c=Zoom&q=600&e=junk.m3u8
+http://103.139.171.5:5001/live.php?c=Zoom&q=600&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" , BBC World News
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist.m3u8
