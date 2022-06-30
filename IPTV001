@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" , BTV HD 
-
+http://103.106.2.152:13456/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
@@ -12,16 +12,16 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" , Channel I HD
-https://somoy.jaagobd.com:444/somoy/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" , Banglavision HD
-https://somoy.appv.jagobd.com:444/somoy/banglav000.stream/playlist.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" , Ekusey TV
-https://cdn.rangdhanu.live/EkusheyTv/video.m3u8
+http://208.86.19.13:81/620.stream/index.m3u8
 
 #EXTINF:-05 tvg-logo="https://i.imgur.com/yi5p51T.png", RTV HD
-https://somoy.appv.jagobd.com:444/somoy/rtv-sg.stream/playlist.m3u8
+http://208.86.19.13:81/684.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R9TpMB0/amar.jpg",NTV 
 http://208.86.19.13:81/652.stream/index.m3u8
@@ -42,7 +42,7 @@ http://103.55.144.46:80/hls/Gazi-TV.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" , Deepto TV HD
-https://somoy.appv.jagobd.com:444/somoy/deeptotv.stream/playlist.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-014 tvg-logo="https://imgur.com/McQwv50.png", SATV
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
@@ -51,10 +51,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 http://103.136.200.246:8082/Nagorik-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" , Bangla TV
-https://somoy.appv.jagobd.com:444/somoy/banglatvhd.stream/playlist.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-017 tvg-logo="https://i.imgur.com/Ai5p9BP.jpg",Nexus TV
-https://somoy.appv.jagobd.com:444/somoy/nexustv.stream/playlist.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" , Desh TV
 http://208.86.19.13:81/629.stream/index.m3u8
@@ -66,13 +66,13 @@ https://somoy.jaagobd.com:444/somoy/chsukoff.stream/live-orgin/chsukoff.stream/c
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" , My TV BD
-https://somoy.appv.jagobd.com:444/somoy/mytv-up-off.stream/playlist.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/mytv-up-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" , Mohona TV HD
 http://208.86.19.13:81/681.stream/index.m3u8
 
 #EXTINF:-021 tvg-logo="https://i.imgur.com/h5FhOWT.png", Ananda TV
-https://somoy.appv.jagobd.com:444/somoy/anandatv.stream/playlist.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/anandatv.stream/playlist.m3u8
 
 #EXTINF:-022 tvg-logo="https://i.imgur.com/kDmkexe.png", Bijoy TV
 https://somoy.appv.jagobd.com:444/somoy/bijoy00.stream/playlist.m3u8
