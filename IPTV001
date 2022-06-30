@@ -48,7 +48,7 @@ https://cdn.appv.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-015 tvg-logo="https://i.imgur.com/2cpHJKq.png", Nagorik TV
-http://103.136.200.246:8082/Nagorik-TV/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" , Bangla TV
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
@@ -60,10 +60,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/playlist.m3u8
 http://208.86.19.13:81/629.stream/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://chsuk.tv/img/cateringcircle.png",CHANEL S
-https://somoy.jaagobd.com:444/somoy/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/cp9TWCe.png",Global Tv
-http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/globaltv.stream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" , My TV BD
 https://cdn.appv.jagobd.com:444/live-orgin/mytv-up-off.stream/chunks.m3u8
@@ -75,7 +75,7 @@ http://208.86.19.13:81/681.stream/index.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/anandatv.stream/playlist.m3u8
 
 #EXTINF:-022 tvg-logo="https://i.imgur.com/kDmkexe.png", Bijoy TV
-https://somoy.appv.jagobd.com:444/somoy/bijoy00.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha HD
 http://103.55.144.46:80/hls/starjalsha.m3u8
