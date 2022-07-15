@@ -84,7 +84,7 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" , Colors Bangla
-http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Bangla_SD&q=600&e=.m3u8
+http://103.139.171.5:5001/live.php?c=Colors_Bangla_SD&q=600&e=.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/PW9hRDa.png",Sun Bangla
 http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
