@@ -120,7 +120,7 @@ http://208.86.19.13:81/703.stream/index.m3u8
 http://208.86.19.13:81/702.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png",Star Bharat HD
-http://208.86.19.13:81/721.stream/index.m3u8
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 
 #EXTINF:-050 tvg-logo="https://static.epg.best/pk/HumTV.pk.png",HUM TV HD 
 http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
