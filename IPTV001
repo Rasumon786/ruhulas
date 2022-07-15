@@ -78,13 +78,13 @@ https://cdn.appv.jagobd.com:444/live-orgin/anandatv.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha HD
-http://103.55.144.46:80/hls/starjalsha.m3u8
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD
-http://208.86.19.13:81/906.stream/index.m3u8
+http://103.109.56.116/live/skyfeed1004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" , Colors Bangla HD
-http://str24.l9574.com:80/616.stream/index.m3u8
+http://208.86.19.13:81/616.stream/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/PW9hRDa.png",Sun Bangla
 http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
